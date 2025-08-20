@@ -31,7 +31,7 @@ I focus on building robust backend systems, and creating visually engaging, user
   <!-- Front-end frameworks -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50" style="background-color:white; padding:5px; border-radius:8px;"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp; -->
   <!-- Styling & build tools -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite.js" alt="Vite.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
