@@ -14,7 +14,7 @@
 
 I'm Soham, a **Full Stack Web Developer** passionate about building modern digital experiences.  
 I mainly work with **TypeScript**, but I’m always curious and love exploring new technologies.  
-I focus on building **robust backend systems**, and creating visually engaging, user-friendly web experiences.  
+I focus on building robust backend systems, and creating visually engaging, user-friendly **web experiences**.  
 
 💡 I enjoy learning, experimenting, and pushing myself out of my comfort zone.  
 
