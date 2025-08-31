@@ -25,9 +25,10 @@ I focus on building robust backend systems, and creating visually engaging, user
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SohamHUG&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SohamHUG&theme=transparent&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamHUG&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamHUG&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamHUG&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p> -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamHUG&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
